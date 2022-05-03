@@ -2,7 +2,7 @@ import axios from 'axios'
 import styled from 'styled-components'
 import Back from './assets/chuckback.jpg'
 import { createGlobalStyle } from 'styled-components'
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 const GlobalStyle = createGlobalStyle`
 *{
   margin:0;
