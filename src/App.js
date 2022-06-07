@@ -64,6 +64,7 @@ export default function ChuckJokes() {
   }
   return (
     <Container>
+      <p>ATUALIZAÇÃO DO MARLON, TESTE</p>
       <GlobalStyle/>
       <BoxBtn>
         <Btn onClick={randomChuck}>Chuck's life</Btn>
