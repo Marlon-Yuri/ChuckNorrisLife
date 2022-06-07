@@ -57,7 +57,7 @@ color:white;
 export default function ChuckJokes() {
   const [item, setItem] = useState('')
   const randomChuck = () => {
-    axios.get('https://api.chucknorris.io/jokes/random').then((response) => {
+    axios.get('https://api.chucknorris.io/jokes/random').then(response => {
       console.log(response)
       setItem(response.data)
     })
