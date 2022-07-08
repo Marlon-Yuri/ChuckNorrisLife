@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
 *{
   margin:0;
   padding:0;
-  box-sizzing:border-box;
+  box-sizing:border-box;
 }
 `
 const Container = styled.div`
@@ -64,7 +64,6 @@ export default function ChuckJokes() {
   }
   return (
     <Container>
-      <p>ATUALIZAÇÃO DO MARLON, TESTE</p>
       <GlobalStyle/>
       <BoxBtn>
         <Btn onClick={randomChuck}>Chuck's life</Btn>
