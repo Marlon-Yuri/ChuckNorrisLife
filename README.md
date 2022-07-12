@@ -20,10 +20,9 @@
  - code .
  - npm start
  
-<img src ='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> : @marlon_yuri
+ ## Online Page: https://chuckslife.netlify.app/
 
-<img src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />  : Marlon Yuri Jesus
+<a href ='https://www.linkedin.com/in/marlon-yuri-jesus-97437b207/'> <img src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
 
-## Online Page: https://chuckslife.netlify.app/
 
 <a href = 'https://www.instagram.com/marlon_yuri/'> <img src ='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> </a>
